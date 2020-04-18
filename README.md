@@ -32,12 +32,15 @@ Canny Edge Detector:
 Corner detection:
 
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/6.PNG)
+
 Crop the number:
 
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/7.PNG)
+
 Neural Network succes on SVHN TEST DATA SET:
 
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/8.PNG)
+
 NUMBER DETECTİON PART( Outs are results, pictures are input)
 
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/9.PNG)
