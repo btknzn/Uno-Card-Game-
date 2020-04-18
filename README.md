@@ -7,4 +7,6 @@ Below you can see flow chart of my code:
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/FLOWCART.PNG)
  For better understanding you can read my project report:
  https://github.com/btknzn/Uno-Card-Game-/blob/master/UNOCARDGAME.pdf
+ 
  Below you can see projects steps:
+![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/1.PNG)
