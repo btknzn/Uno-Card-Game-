@@ -9,12 +9,35 @@ Below you can see flow chart of my code:
  https://github.com/btknzn/Uno-Card-Game-/blob/master/UNOCARDGAME.pdf
  
  Below you can see projects steps:
+ First take Image from camera:
+ 
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/1.PNG)
+
+Seperate the Image:
+
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/2.PNG)
+
+Gaussian BLUR:
+
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/3.PNG)
+
+Threshold:
+
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/4.PNG)
+
+Canny Edge Detector:
+
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/5.PNG)
+
+Corner detection:
+
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/6.PNG)
+Crop the number:
+
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/7.PNG)
+Neural Network succes on SVHN TEST DATA SET:
+
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/8.PNG)
+NUMBER DETECTİON PART( Outs are results, pictures are input)
+
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/9.PNG)
