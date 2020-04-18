@@ -3,6 +3,8 @@ In this project, our goal is detecting Uno Card via computer camera. When we are
 In Unocarddetector.py, you can see our unocard detection code and in cnn.py , how we find weight for unocard detection code. Unocarddetector contains two main
 system one of them is ımage preprocessing which finds the image in area the other one ise decision system, which decides which card is this. Main goal why we divided parts and 
 did not apply our system cnn is that we want to increase succes of our system and cnn gives us neural network weights for Unocarddettector.pys' decision system.
+You can download KERAS DATASET:
+https://www.kaggle.com/olgabelitskaya/svhn-digit-recognition/data
 Below you can see flow chart of my code:
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/FLOWCART.PNG)
  For better understanding you can read my project report:
