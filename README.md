@@ -5,3 +5,5 @@ system one of them is ımage preprocessing which finds the image in area the oth
 did not apply our system cnn is that we want to increase succes of our system and cnn gives us neural network weights for Unocarddettector.pys' decision system.
 Below you can see flow chart of my code:
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/FLOWCART.PNG)
+ For better understanding you can read my project report:
+ https://github.com/btknzn/Uno-Card-Game-/blob/master/UNOCARDGAME.pdf
