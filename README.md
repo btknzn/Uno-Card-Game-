@@ -10,3 +10,11 @@ Below you can see flow chart of my code:
  
  Below you can see projects steps:
 ![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/1.PNG)
+![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/2.PNG)
+![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/3.PNG)
+![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/4.PNG)
+![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/5.PNG)
+![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/6.PNG)
+![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/7.PNG)
+![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/8.PNG)
+![alt text](https://github.com/btknzn/Uno-Card-Game-/blob/master/9.PNG)
