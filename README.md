@@ -1,6 +1,6 @@
 In this project, our goal is detecting Uno Card via computer camera. When we are doing this project we used OPENCV, KERAS, SKLEARN, NUMPY, H5PY LİBRARY, Pandas, Matplotlib.
 
-Unocarddetector contains two main systems one of them is ımage preprocessing which finds the image in area the other one ise decision system, which decides the card number and color. For decision system, we trained neural network. The aim of preprocessing is increasing the success of Neural Network. 
+Unocarddetector contains two main systems one of them is ımage preprocessing which finds the image in area the another one is a decision system, which decides the card number and color. For decision system, we trained neural network. The aim of preprocessing is increasing the success of Neural Network. 
 In Unocarddetector.py, you can see our unocard detection code and in cnn.py , how we find weight for unocard detection code. In my system I first applied preprocessing part and then I planned to applying feature matching but every uno cards detected in my algorithm as 0 due to the small circle around the uno number. Because of that we trained neural network in cnn.py and it is taken this neural network shape and weight and added in  Uno card Detection code, which can detect card number.
 
 You can download KERAS DATASET:
